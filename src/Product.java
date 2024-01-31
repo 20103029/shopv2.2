@@ -9,7 +9,7 @@ public class Product {
     private String productName = "";
     private int productCode = -1;
     private double unitCost = 0;
-    private boolean inCurrentProductLine = false;
+    private boolean inCurrentProductLine = true;
 
     /**
      * Constructor for objects of class Product
